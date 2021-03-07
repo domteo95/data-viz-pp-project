@@ -1,124 +1,124 @@
-Occupational Category,Total Employed,Men Employed,Women Employed,Percentage of women in occupational group,Combined Median Earnings,Men Median Earnings,Women Median Earnings,Women's earnings as a percentage of men's earnings
-Total Employed,"158,758,794","83,061,060","75,697,734",47.7,"50,078","53,544","43,394",81.0
-.Total STEM2 Occupations:,"10,769,890","7,890,084","2,879,806",26.7,"87,170","91,360","76,820",84.1
-...Computer systems managers,"660,466","464,427","196,039",29.7,"112,542","118,104","101,763",86.2
-...Computer and information research scientists,"35,193","23,902","11,291",32.1,"115,444","121,128","102,179",84.4
-...Computer systems analysts,"612,083","362,999","249,084",40.7,"81,998","89,427","75,628",84.6
-...Information security analysts,"129,062","105,305","23,757",18.4,"100,526","101,763","86,684",85.2
-...Computer programmers,"337,016","265,291","71,725",21.3,"88,133","90,404","82,351",91.1
-...Software developers,"1,640,590","1,332,895","307,695",18.8,"111,358","114,190","101,266",88.7
-...Software quality assurance analysts and testers,"72,131","41,565","30,566",42.4,"77,462","79,116","75,591",95.5
-...Web developers,"105,422","72,434","32,988",31.3,"72,754","76,175","62,340",81.8
-...Web and digital interface designers,"70,668","39,373","31,295",44.3,"63,645","65,154","62,292",95.6
-...Computer support specialists,"680,587","503,120","177,467",26.1,"59,893","60,877","55,112",90.5
-...Database administrators and architects,"128,795","84,939","43,856",34.1,"90,976","96,930","70,256",72.5
-...Computer systems administrators,"223,787","181,556","42,231",18.9,"75,994","76,323","73,211",95.9
-...Computer network architects,"114,360","104,974","9,386",8.2,"96,521","96,066","101,160",105.3
-"...Computer occupations, all other","699,658","510,236","189,422",27.1,"66,873","70,029","61,048",87.2
-...Actuaries,"34,295","20,645","13,650",39.8,"121,833","133,788","101,006",75.5
-...Mathematicians,"3,748","2,732","1,016",27.1,"126,771","131,394","94,905",(X)
-...Operations research analysts,"162,036","82,327","79,709",49.2,"82,311","91,362","75,537",82.7
-...Statisticians,"46,510","23,381","23,129",49.7,"94,269","100,273","92,037",91.8
-...Other mathematical science occupations,"135,973","74,239","61,734",45.4,"76,480","78,141","74,189",94.9
-...Architectural and engineering managers,"174,799","154,808","19,991",11.4,"146,705","147,093","142,245",96.7
-"...Surveyors, cartographers, and photogrammetrists","38,618","30,916","7,702",19.9,"66,424","70,273","56,659",(X)
-...Aerospace engineers,"130,727","114,393","16,334",12.5,"110,761","112,402","101,105",89.9
-...Agricultural engineers,"3,010","2,614",396,13.2,"91,306","90,716","93,777",(X)
-...Bioengineers and biomedical engineers,"14,712","11,810","2,902",19.7,"92,598","94,134","90,990",(X)
-...Chemical engineers,"77,299","61,820","15,479",20.0,"102,493","105,727","101,296",95.8
-...Civil engineers,"425,576","358,160","67,416",15.8,"90,702","91,923","79,966",87.0
-...Computer hardware engineers,"59,146","48,993","10,153",17.2,"101,495","102,060","90,923",(X)
-...Electrical engineers,"259,437","236,008","23,429",9.0,"101,450","101,802","92,617",91.0
-...Environmental engineers,"32,561","21,970","10,591",32.5,"84,613","91,027","80,086",88.0
-...Industrial engineers,"256,526","205,133","51,393",20.0,"85,497","86,334","80,836",93.6
-...Marine engineers and naval architects,"11,739","10,830",909,7.7,"87,524","86,276","103,672",(X)
-...Materials engineers,"52,724","45,352","7,372",14.0,"87,405","87,936","82,210",93.5
-...Mechanical engineers,"328,181","299,637","28,544",8.7,"91,119","91,189","90,524",99.3
-"...Mining and geological engineers, including mining safety engineers","7,552","7,052",500,6.6,"105,597","110,014","78,145",(X)
-...Nuclear engineers,"7,605","6,376","1,229",16.2,"111,449","111,834","105,182",(X)
-...Petroleum engineers,"29,269","24,013","5,256",18.0,"135,549","138,456","126,712",(X)
-"...Engineers, all other","593,540","508,067","85,473",14.4,"100,779","101,281","91,932",90.8
-...Architectural and civil drafters,"54,878","43,661","11,217",20.4,"54,740","56,781","46,393",81.7
-...Other drafters,"94,179","74,863","19,316",20.5,"56,894","58,064","50,363",86.7
-...Electrical and electronic engineering technologists and technicians,"109,786","99,857","9,929",9.0,"65,019","65,471","52,401",80.0
-"...Other engineering technologists and technicians, except drafters","387,073","303,599","83,474",21.6,"56,233","60,034","48,180",80.3
-...Surveying and mapping technicians,"71,453","65,147","6,306",8.8,"53,158","53,592","46,654",(X)
-...Sales engineers,"50,003","44,963","5,040",10.1,"121,571","125,063","91,083",(X)
-...Natural sciences managers,"17,214","7,453","9,761",56.7,"86,206","91,559","82,432",90.0
-...Agricultural and food scientists,"32,376","20,054","12,322",38.1,"72,569","76,256","69,856",91.6
-...Biological scientists,"93,723","46,388","47,335",50.5,"68,265","67,687","68,603",101.4
-...Conservation scientists and foresters,"23,913","17,047","6,866",28.7,"61,702","65,489","58,470",89.3
-...Medical scientists,"137,083","59,716","77,367",56.4,"76,684","81,831","73,907",90.3
-"...Life scientists, all other","7,105","3,997","3,108",43.7,"70,456","83,521","62,232",(X)
-...Astronomers and physicists,"14,897","13,025","1,872",12.6,"121,178","121,691","72,245",(X)
-...Atmospheric and space scientists,"10,750","7,635","3,115",29.0,"79,370","90,894","58,781",(X)
-...Chemists and materials scientists,"111,121","62,385","48,736",43.9,"76,785","85,197","66,645",78.2
-"...Environmental scientists and specialists, including health","39,006","22,908","16,098",41.3,"67,013","70,862","63,309",89.3
-"...Geoscientists and hydrologists, except geographers","48,234","35,691","12,543",26.0,"92,380","93,523","90,643",96.9
-"...Physical scientists, all other","320,998","179,021","141,977",44.2,"85,113","92,369","76,748",83.1
-...Economists,"30,575","19,619","10,956",35.8,"120,055","122,372","102,443",83.7
-...Survey researchers,"2,968","1,492","1,476",49.7,"62,157","76,322","58,285",(X)
-...Clinical and counseling psychologists,"23,318","6,370","16,948",72.7,"96,335","100,441","96,079",(X)
-...School psychologists,"48,823","7,450","41,373",84.7,"71,199","80,856","70,524",(X)
-...Other psychologists,"161,667","46,009","115,658",71.5,"85,411","98,820","80,629",81.6
-...Sociologists,"4,408","1,725","2,683",60.9,"78,381","76,241","87,539",(X)
-...Urban and regional planners,"38,900","22,435","16,465",42.3,"79,013","78,409","79,918",101.9
-...Miscellaneous social scientists and related workers,"44,831","22,743","22,088",49.3,"71,322","74,452","67,575",90.8
-...Agricultural and food science technicians,"43,394","25,944","17,450",40.2,"50,504","52,062","46,020",88.4
-...Biological technicians,"27,683","13,386","14,297",51.6,"51,294","52,030","50,278",96.6
-...Chemical technicians,"69,772","44,094","25,678",36.8,"54,646","56,613","50,723",89.6
-...Environmental science and geoscience technicians,"19,384","13,276","6,108",31.5,"62,034","65,797","54,883",(X)
-...Nuclear technicians,"3,689","2,508","1,181",32.0,"86,116","100,736","36,815",(X)
-...Social science research assistants,"9,438","3,626","5,812",61.6,"51,958","57,742","51,324",(X)
-"...Other life, physical, and social science technicians","221,847","107,705","114,142",51.5,"46,396","49,080","43,812",89.3
-.Total STEM-related Occupations:,"10,675,593","2,802,011","7,873,582",73.8,"67,380","85,860","62,940",73.3
-"...Architects, except landscape and naval","204,883","149,406","55,477",27.1,"87,239","92,818","72,021",77.6
-...Landscape architects,"33,351","20,914","12,437",37.3,"69,063","71,685","61,693",86.1
-...Health services managers,"680,272","188,027","492,245",72.4,"75,556","88,871","71,282",80.2
-...Chiropractors,"66,438","47,529","18,909",28.5,"75,365","80,030","62,315",77.9
-...Dentists,"178,537","119,728","58,809",32.9,"152,233","167,574","140,040",83.6
-...Dietitians and nutritionists,"104,259","9,384","94,875",91.0,"54,338","56,615","53,875",95.2
-...Optometrists,"46,473","24,859","21,614",46.5,"120,503","131,284","108,797",82.9
-...Pharmacists,"336,095","139,371","196,724",58.5,"122,473","128,130","121,218",94.6
-...Emergency medicine physicians,"20,023","13,357","6,666",33.3,"250,000+","250,000+","239,068",(Z)
-...Radiologists,"22,772","16,584","6,188",27.2,"250,000+","250,000+","250,000+",(Z)
-...Other physicians,"871,566","524,089","347,477",39.9,"217,588","250,000+","185,183",(Z)
-...Surgeons,"54,546","44,467","10,079",18.5,"250,000+","250,000+","222,197",(Z)
-...Physician assistants,"141,608","44,826","96,782",68.3,"110,834","121,816","105,676",86.8
-...Podiatrists,"10,994","7,982","3,012",27.4,"144,143","150,911","135,035",(X)
-...Audiologists,"19,675","3,457","16,218",82.4,"81,269","99,122","80,849",(X)
-...Occupational therapists,"135,914","12,797","123,117",90.6,"72,877","79,798","72,121",90.4
-...Physical therapists,"270,728","89,560","181,168",66.9,"80,762","85,977","77,337",90.0
-...Radiation therapists,"15,061","4,614","10,447",69.4,"79,974","80,623","77,526",(X)
-...Recreational therapists,"15,951","3,083","12,868",80.7,"36,331","35,641","36,406",(X)
-...Respiratory therapists,"118,299","40,183","78,116",66.0,"60,774","65,518","58,067",88.6
-...Speech-language pathologists,"177,996","7,715","170,281",95.7,"66,888","71,411","66,741",(X)
-...Exercise physiologists,"7,640","2,833","4,807",62.9,"45,873","47,076","42,457",(X)
-"...Therapists, all other","187,293","36,646","150,647",80.4,"51,889","53,832","51,628",95.9
-...Veterinarians,"94,169","32,192","61,977",65.8,"101,187","121,405","95,460",78.6
-...Registered nurses,"3,361,580","397,184","2,964,396",88.2,"69,754","73,603","68,509",93.1
-...Nurse anesthetists,"41,210","16,372","24,838",60.3,"178,784","182,499","171,149",93.8
-...Nurse midwives,"6,308",0,"6,308",100.0,"106,529",-,"106,529",(X)
-...Nurse practitioners,"213,156","22,431","190,725",89.5,"104,948","113,546","103,312",91.0
-...Acupuncturists,"21,943","7,548","14,395",65.6,"55,795","56,868","51,463",(X)
-"...Healthcare diagnosing or treating practitioners, all other","9,995","2,788","7,207",72.1,"37,946","15,044","49,186",(X)
-...Clinical laboratory technicians,"332,288","89,377","242,911",73.1,"47,169","48,452","46,840",96.7
-...Dental hygienists,"202,381","10,070","192,311",95.0,"60,521","73,379","60,287",(X)
-...Cardiovascular technologists and technicians,"48,964","19,295","29,669",60.6,"55,066","66,510","50,686",76.2
-...Diagnostic medical sonographers,"94,819","19,795","75,024",79.1,"70,908","85,815","67,244",78.4
-...Radiologic technicians,"213,130","66,377","146,753",68.9,"57,144","62,255","54,238",87.1
-...Magnetic resonance imaging technologists,"47,311","22,426","24,885",52.6,"71,373","78,467","66,369",84.6
-...Nuclear medicine technologists and medical dosimetrists,"26,682","12,432","14,250",53.4,"90,989","90,113","95,376",105.8
-...Emergency medical technicians,"133,337","79,700","53,637",40.2,"36,568","37,011","35,979",97.2
-...Paramedics,"107,633","74,831","32,802",30.5,"56,107","59,454","52,038",87.5
-...Pharmacy technicians,"378,007","87,577","290,430",76.8,"33,916","36,409","32,655",89.7
-...Psychiatric technicians,"88,386","27,107","61,279",69.3,"34,020","34,830","33,194",95.3
-...Surgical technologists,"109,927","28,632","81,295",74.0,"45,502","50,890","42,475",83.5
-...Veterinary technologists and technicians,"147,557","18,083","129,474",87.7,"31,639","32,454","31,523",97.1
-...Dietetic technicians and ophthalmic medical technicians,"61,083","11,370","49,713",81.4,"28,985","27,235","29,511",(X)
-…Licensed vocational nurses,"707,964","81,438","626,526",88.5,"42,180","47,859","41,851",87.4
-...Medical records specialists,"189,273","16,812","172,461",91.1,"42,724","42,418","42,756",100.8
-"...Opticians, dispensing","71,631","20,313","51,318",71.6,"38,783","51,825","35,033",67.6
-...Miscellaneous health technologists and technicians,"148,334","52,785","95,549",64.4,"44,690","50,444","41,498",82.3
-...Other healthcare practitioners and technical occupations,"98,151","33,665","64,486",65.7,"55,473","61,136","52,462",85.8
-.Total non-STEM Occupations," 	137,313,311 "," 	72,368,965 "," 	64,944,346 ",47.3,"45,560","50,440","40,560",80.4
+Occupation,Category,Men Employed,Women Employed,Percentage of women in occupational group,Men Median Earnings,Women Median Earnings,Women's earnings as a percentage of men's earnings
+Total Employed,General,"83,061,060","75,697,734",47.7,"53,544","43,394",81.0
+Total STEM2 Occupations:,General,"7,890,084","2,879,806",26.7,"91,360","76,820",84.1
+Computer systems managers,STEM Occupations,"464,427","196,039",29.7,"118,104","101,763",86.2
+Computer and information research scientists,STEM Occupations,"23,902","11,291",32.1,"121,128","102,179",84.4
+Computer systems analysts,STEM Occupations,"362,999","249,084",40.7,"89,427","75,628",84.6
+Information security analysts,STEM Occupations,"105,305","23,757",18.4,"101,763","86,684",85.2
+Computer programmers,STEM Occupations,"265,291","71,725",21.3,"90,404","82,351",91.1
+Software developers,STEM Occupations,"1,332,895","307,695",18.8,"114,190","101,266",88.7
+Software quality assurance analysts and testers,STEM Occupations,"41,565","30,566",42.4,"79,116","75,591",95.5
+Web developers,STEM Occupations,"72,434","32,988",31.3,"76,175","62,340",81.8
+Web and digital interface designers,STEM Occupations,"39,373","31,295",44.3,"65,154","62,292",95.6
+Computer support specialists,STEM Occupations,"503,120","177,467",26.1,"60,877","55,112",90.5
+Database administrators and architects,STEM Occupations,"84,939","43,856",34.1,"96,930","70,256",72.5
+Computer systems administrators,STEM Occupations,"181,556","42,231",18.9,"76,323","73,211",95.9
+Computer network architects,STEM Occupations,"104,974","9,386",8.2,"96,066","101,160",105.3
+"Computer occupations, all other",STEM Occupations,"510,236","189,422",27.1,"70,029","61,048",87.2
+Actuaries,STEM Occupations,"20,645","13,650",39.8,"133,788","101,006",75.5
+Mathematicians,STEM Occupations,"2,732","1,016",27.1,"131,394","94,905",(X)
+Operations research analysts,STEM Occupations,"82,327","79,709",49.2,"91,362","75,537",82.7
+Statisticians,STEM Occupations,"23,381","23,129",49.7,"100,273","92,037",91.8
+Other mathematical science occupations,STEM Occupations,"74,239","61,734",45.4,"78,141","74,189",94.9
+Architectural and engineering managers,STEM Occupations,"154,808","19,991",11.4,"147,093","142,245",96.7
+"Surveyors, cartographers, and photogrammetrists",STEM Occupations,"30,916","7,702",19.9,"70,273","56,659",(X)
+Aerospace engineers,STEM Occupations,"114,393","16,334",12.5,"112,402","101,105",89.9
+Agricultural engineers,STEM Occupations,"2,614",396,13.2,"90,716","93,777",(X)
+Bioengineers and biomedical engineers,STEM Occupations,"11,810","2,902",19.7,"94,134","90,990",(X)
+Chemical engineers,STEM Occupations,"61,820","15,479",20.0,"105,727","101,296",95.8
+Civil engineers,STEM Occupations,"358,160","67,416",15.8,"91,923","79,966",87.0
+Computer hardware engineers,STEM Occupations,"48,993","10,153",17.2,"102,060","90,923",(X)
+Electrical engineers,STEM Occupations,"236,008","23,429",9.0,"101,802","92,617",91.0
+Environmental engineers,STEM Occupations,"21,970","10,591",32.5,"91,027","80,086",88.0
+Industrial engineers,STEM Occupations,"205,133","51,393",20.0,"86,334","80,836",93.6
+Marine engineers and naval architects,STEM Occupations,"10,830",909,7.7,"86,276","103,672",(X)
+Materials engineers,STEM Occupations,"45,352","7,372",14.0,"87,936","82,210",93.5
+Mechanical engineers,STEM Occupations,"299,637","28,544",8.7,"91,189","90,524",99.3
+"Mining and geological engineers, including mining safety engineers",STEM Occupations,"7,052",500,6.6,"110,014","78,145",(X)
+Nuclear engineers,STEM Occupations,"6,376","1,229",16.2,"111,834","105,182",(X)
+Petroleum engineers,STEM Occupations,"24,013","5,256",18.0,"138,456","126,712",(X)
+"Engineers, all other",STEM Occupations,"508,067","85,473",14.4,"101,281","91,932",90.8
+Architectural and civil drafters,STEM Occupations,"43,661","11,217",20.4,"56,781","46,393",81.7
+Other drafters,STEM Occupations,"74,863","19,316",20.5,"58,064","50,363",86.7
+Electrical and electronic engineering technologists and technicians,STEM Occupations,"99,857","9,929",9.0,"65,471","52,401",80.0
+"Other engineering technologists and technicians, except drafters",STEM Occupations,"303,599","83,474",21.6,"60,034","48,180",80.3
+Surveying and mapping technicians,STEM Occupations,"65,147","6,306",8.8,"53,592","46,654",(X)
+Sales engineers,STEM Occupations,"44,963","5,040",10.1,"125,063","91,083",(X)
+Natural sciences managers,STEM Occupations,"7,453","9,761",56.7,"91,559","82,432",90.0
+Agricultural and food scientists,STEM Occupations,"20,054","12,322",38.1,"76,256","69,856",91.6
+Biological scientists,STEM Occupations,"46,388","47,335",50.5,"67,687","68,603",101.4
+Conservation scientists and foresters,STEM Occupations,"17,047","6,866",28.7,"65,489","58,470",89.3
+Medical scientists,STEM Occupations,"59,716","77,367",56.4,"81,831","73,907",90.3
+"Life scientists, all other",STEM Occupations,"3,997","3,108",43.7,"83,521","62,232",(X)
+Astronomers and physicists,STEM Occupations,"13,025","1,872",12.6,"121,691","72,245",(X)
+Atmospheric and space scientists,STEM Occupations,"7,635","3,115",29.0,"90,894","58,781",(X)
+Chemists and materials scientists,STEM Occupations,"62,385","48,736",43.9,"85,197","66,645",78.2
+"Environmental scientists and specialists, including health",STEM Occupations,"22,908","16,098",41.3,"70,862","63,309",89.3
+"Geoscientists and hydrologists, except geographers",STEM Occupations,"35,691","12,543",26.0,"93,523","90,643",96.9
+"Physical scientists, all other",STEM Occupations,"179,021","141,977",44.2,"92,369","76,748",83.1
+Economists,STEM Occupations,"19,619","10,956",35.8,"122,372","102,443",83.7
+Survey researchers,STEM Occupations,"1,492","1,476",49.7,"76,322","58,285",(X)
+Clinical and counseling psychologists,STEM Occupations,"6,370","16,948",72.7,"100,441","96,079",(X)
+School psychologists,STEM Occupations,"7,450","41,373",84.7,"80,856","70,524",(X)
+Other psychologists,STEM Occupations,"46,009","115,658",71.5,"98,820","80,629",81.6
+Sociologists,STEM Occupations,"1,725","2,683",60.9,"76,241","87,539",(X)
+Urban and regional planners,STEM Occupations,"22,435","16,465",42.3,"78,409","79,918",101.9
+...Miscellaneous social scientists and related workers,STEM Occupations,"22,743","22,088",49.3,"74,452","67,575",90.8
+...Agricultural and food science technicians,STEM Occupations,"25,944","17,450",40.2,"52,062","46,020",88.4
+...Biological technicians,STEM Occupations,"13,386","14,297",51.6,"52,030","50,278",96.6
+...Chemical technicians,STEM Occupations,"44,094","25,678",36.8,"56,613","50,723",89.6
+...Environmental science and geoscience technicians,STEM Occupations,"13,276","6,108",31.5,"65,797","54,883",(X)
+...Nuclear technicians,STEM Occupations,"2,508","1,181",32.0,"100,736","36,815",(X)
+...Social science research assistants,STEM Occupations,"3,626","5,812",61.6,"57,742","51,324",(X)
+"...Other life, physical, and social science technicians",STEM Occupations,"107,705","114,142",51.5,"49,080","43,812",89.3
+.Total STEM-related Occupations:,General,"2,802,011","7,873,582",73.8,"85,860","62,940",73.3
+"...Architects, except landscape and naval",STEM-related Occupations:,"149,406","55,477",27.1,"92,818","72,021",77.6
+...Landscape architects,STEM-related Occupations:,"20,914","12,437",37.3,"71,685","61,693",86.1
+...Health services managers,STEM-related Occupations:,"188,027","492,245",72.4,"88,871","71,282",80.2
+...Chiropractors,STEM-related Occupations:,"47,529","18,909",28.5,"80,030","62,315",77.9
+...Dentists,STEM-related Occupations:,"119,728","58,809",32.9,"167,574","140,040",83.6
+...Dietitians and nutritionists,STEM-related Occupations:,"9,384","94,875",91.0,"56,615","53,875",95.2
+...Optometrists,STEM-related Occupations:,"24,859","21,614",46.5,"131,284","108,797",82.9
+...Pharmacists,STEM-related Occupations:,"139,371","196,724",58.5,"128,130","121,218",94.6
+...Emergency medicine physicians,STEM-related Occupations:,"13,357","6,666",33.3,"250,000","239,068",(Z)
+...Radiologists,STEM-related Occupations:,"16,584","6,188",27.2,"250,000","250,000",(Z)
+...Other physicians,STEM-related Occupations:,"524,089","347,477",39.9,"250,000","185,183",(Z)
+...Surgeons,STEM-related Occupations:,"44,467","10,079",18.5,"250,000","222,197",(Z)
+...Physician assistants,STEM-related Occupations:,"44,826","96,782",68.3,"121,816","105,676",86.8
+...Podiatrists,STEM-related Occupations:,"7,982","3,012",27.4,"150,911","135,035",(X)
+...Audiologists,STEM-related Occupations:,"3,457","16,218",82.4,"99,122","80,849",(X)
+...Occupational therapists,STEM-related Occupations:,"12,797","123,117",90.6,"79,798","72,121",90.4
+...Physical therapists,STEM-related Occupations:,"89,560","181,168",66.9,"85,977","77,337",90.0
+...Radiation therapists,STEM-related Occupations:,"4,614","10,447",69.4,"80,623","77,526",(X)
+...Recreational therapists,STEM-related Occupations:,"3,083","12,868",80.7,"35,641","36,406",(X)
+...Respiratory therapists,STEM-related Occupations:,"40,183","78,116",66.0,"65,518","58,067",88.6
+...Speech-language pathologists,STEM-related Occupations:,"7,715","170,281",95.7,"71,411","66,741",(X)
+...Exercise physiologists,STEM-related Occupations:,"2,833","4,807",62.9,"47,076","42,457",(X)
+"...Therapists, all other",STEM-related Occupations:,"36,646","150,647",80.4,"53,832","51,628",95.9
+...Veterinarians,STEM-related Occupations:,"32,192","61,977",65.8,"121,405","95,460",78.6
+...Registered nurses,STEM-related Occupations:,"397,184","2,964,396",88.2,"73,603","68,509",93.1
+...Nurse anesthetists,STEM-related Occupations:,"16,372","24,838",60.3,"182,499","171,149",93.8
+...Nurse midwives,STEM-related Occupations:,0,"6,308",100.0,-,"106,529",(X)
+...Nurse practitioners,STEM-related Occupations:,"22,431","190,725",89.5,"113,546","103,312",91.0
+...Acupuncturists,STEM-related Occupations:,"7,548","14,395",65.6,"56,868","51,463",(X)
+"...Healthcare diagnosing or treating practitioners, all other",STEM-related Occupations:,"2,788","7,207",72.1,"15,044","49,186",(X)
+...Clinical laboratory technicians,STEM-related Occupations:,"89,377","242,911",73.1,"48,452","46,840",96.7
+...Dental hygienists,STEM-related Occupations:,"10,070","192,311",95.0,"73,379","60,287",(X)
+...Cardiovascular technologists and technicians,STEM-related Occupations:,"19,295","29,669",60.6,"66,510","50,686",76.2
+...Diagnostic medical sonographers,STEM-related Occupations:,"19,795","75,024",79.1,"85,815","67,244",78.4
+...Radiologic technicians,STEM-related Occupations:,"66,377","146,753",68.9,"62,255","54,238",87.1
+...Magnetic resonance imaging technologists,STEM-related Occupations:,"22,426","24,885",52.6,"78,467","66,369",84.6
+...Nuclear medicine technologists and medical dosimetrists,STEM-related Occupations:,"12,432","14,250",53.4,"90,113","95,376",105.8
+...Emergency medical technicians,STEM-related Occupations:,"79,700","53,637",40.2,"37,011","35,979",97.2
+...Paramedics,STEM-related Occupations:,"74,831","32,802",30.5,"59,454","52,038",87.5
+...Pharmacy technicians,STEM-related Occupations:,"87,577","290,430",76.8,"36,409","32,655",89.7
+...Psychiatric technicians,STEM-related Occupations:,"27,107","61,279",69.3,"34,830","33,194",95.3
+...Surgical technologists,STEM-related Occupations:,"28,632","81,295",74.0,"50,890","42,475",83.5
+...Veterinary technologists and technicians,STEM-related Occupations:,"18,083","129,474",87.7,"32,454","31,523",97.1
+...Dietetic technicians and ophthalmic medical technicians,STEM-related Occupations:,"11,370","49,713",81.4,"27,235","29,511",(X)
+…Licensed vocational nurses,STEM-related Occupations:,"81,438","626,526",88.5,"47,859","41,851",87.4
+...Medical records specialists,STEM-related Occupations:,"16,812","172,461",91.1,"42,418","42,756",100.8
+"...Opticians, dispensing",STEM-related Occupations:,"20,313","51,318",71.6,"51,825","35,033",67.6
+...Miscellaneous health technologists and technicians,STEM-related Occupations:,"52,785","95,549",64.4,"50,444","41,498",82.3
+...Other healthcare practitioners and technical occupations,STEM-related Occupations:,"33,665","64,486",65.7,"61,136","52,462",85.8
+.Total non-STEM Occupations,General,"72,368,965","64,944,346",47.3,"50,440","40,560",80.4
